@@ -1,0 +1,7 @@
+{
+	"docify.commentService.programmingLanguage": "c",
+	"docify.commentService.inlineComments": false,
+	"docify.commentService.moreExpressiveComments": false,
+	"docify.commentService.docstringFormat": "Custom",
+	"docify.commentService.sidePanelReviewMode": true
+}
