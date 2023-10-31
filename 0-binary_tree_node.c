@@ -1,9 +1,8 @@
-#include <stdlib.h>
 #include "binary_trees.h"
 
 /**
 * binary_tree_node - Creates a new node with the given value and returns it.
-* @parent: * The parent of the new node.
+* @parent: The parent of the new node.
 * @value: The value of the new node.
 *
 * Return: The newly malloc'd node
